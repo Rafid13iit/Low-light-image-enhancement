@@ -104,13 +104,3 @@ venv.bak/
 # OS
 .DS_Store
 Thumbs.db
-
-# Project specific
-*.pyc
-*.pyo
-data/
-results/
-output/
-*.jpg
-*.png
-*.jpeg
